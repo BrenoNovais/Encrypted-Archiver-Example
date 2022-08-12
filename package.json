@@ -1,0 +1,15 @@
+{
+  "name": "encrypted-archiver-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "BrenoNovais",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^5.3.1",
+    "archiver-zip-encrypted": "^1.0.11"
+  }
+}
